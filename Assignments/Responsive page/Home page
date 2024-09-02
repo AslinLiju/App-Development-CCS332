@@ -1,20 +1,16 @@
-body {
-    font-family: Arial, sans-serif;
-    text-align: center;
-    margin: 0;
-    padding: 0;
-}
-.container {
-    max-width: 1200px;
-    margin: 0 auto;
-    padding: 20px;
-}
-img {
-    max-width: 100%;
-    height: auto;
-}
-@media only screen and (max-width: 768px) {
-    body {
-      background-color: lightblue;
-    }
-  }
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pet Care App</title>
+    <link rel="stylesheet" href="styles">
+</head>
+<body>
+    <img src="file:///C:/Users/COE-57/Pictures/Screenshots/Screenshot (15).png" alt="Pet Care">
+    <p>A pet, or companion animal, is an animal kept primarily for a person's company or entertainment rather than as a working animal, livestock, or a laboratory animal. Popular pets are often considered to have attractive/cute appearances, intelligence, and relatable personalities, but some pets may be taken in on an altruistic basis (such as a stray animal) and accepted by the owner regardless of these characteristics.
+
+    </p>
+</body>
+</html>
+
