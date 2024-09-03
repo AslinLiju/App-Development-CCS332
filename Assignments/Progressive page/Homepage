@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Progressive Pet Care Page</title>
+    <link rel="stylesheet" href="style2.css">
+</head>
+<body>
+    <div class="container">
+        <h1>PETS</h1>
+        <div class="content">
+            <div class="section">
+                <img src="file:///C:/Users/aslin/Downloads/pets5.jpg" alt="Pet Care">
+                <p>A pet, or companion animal, is an animal kept primarily for a person's company or entertainment rather than as a working animal, livestock, or a laboratory animal.</p>
+            </div>
+            <div class="section">
+                <p>Popular pets are often considered to have attractive/cute appearances, intelligence, and relatable personalities.</p>
+            </div>
+            <div class="section">
+                <p>Some pets may be taken in on an altruistic basis (such as a stray animal) and accepted by the owner regardless of these characteristics.</p>
+            </div>
+            <div class="section">
+                <a href="https://chennaipetsandaquarium.com/" target="_blank" class="pet-store-link">Visit our Pet Store</a>
+            </div>
+        </div>
+    </div>
+    <script src="script1.js"></script>
+</body>
+</html>
