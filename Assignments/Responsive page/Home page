@@ -4,16 +4,20 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Pet Care App</title>
-    <link rel="stylesheet" href="styles.css"> 
+    <link rel="stylesheet" href="style1.css">
 </head>
 <body>
     <div class="container">
-        <h1>PETS</h1> 
-        <img src="file:///C:/Users/COE-57/Pictures/Screenshots/Screenshot (15).png" alt="Pet Care">
-        <p>A pet, or companion animal, is an animal kept primarily for a person's company or entertainment rather than as a working animal, livestock, or a laboratory animal. Popular pets are often considered to have attractive/cute appearances, intelligence, and relatable personalities, but some pets may be taken in on an altruistic basis (such as a stray animal) and accepted by the owner regardless of these characteristics.</p>
+        <h1>PETS</h1>
+        <div class="content">
+            <img src="file:///C:/Users/aslin/Downloads/pets5.jpg" alt="Pet Care">
+            <p><b>A pet, or companion animal, is an animal kept primarily for a person's company or entertainment rather than as a working animal, livestock, or a laboratory animal. Popular pets are often considered to have attractive/cute appearances, intelligence, and relatable personalities, but some pets may be taken in on an altruistic basis (such as a stray animal) and accepted by the owner regardless of these characteristics.</b></p>
+            <a href="https://chennaipetsandaquarium.com/" target="_blank" class="pet-store-link">Visit our Pet Store</a>
+        </div>
     </div>
 </body>
 </html>
+
 
 
 
